@@ -1,0 +1,30 @@
+/* #box1 {
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+} */
+table {    
+    height: 400px;
+    width:  400px;
+    border:  2px solid black ;
+    border-collapse: collapse;
+    background-color: cadetblue;
+    color: white ;
+}
+input {
+    border: none ;
+    outline : none ;    
+    background-color: cadetblue;
+}
+
+ td {
+    /* background-color: cadetblue; */
+    /* height: 50px;
+    width: 40px;     */
+    border: 2px solid black ;
+    border-collapse: collapse;    
+}
+
+p1 {
+    visibility: hidden;        
+}
